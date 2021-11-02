@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ***
 
 ***
+### :zap: Updates:
 
 <!--START_SECTION:activity-->
 
