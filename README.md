@@ -30,4 +30,10 @@ Here are some ideas to get you started:
 
 ***
 
+### :zap: Weekly Report:
+
+<!--START_SECTION:waka-->
+
+***
+
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ckvignesh'></p>
