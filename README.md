@@ -1,14 +1,32 @@
 ### Hi there 👋 I'm Vignesh.
 
-- 🌱 I’m currently learning Frontend Web development.
+- 🌱 I’m currently learning Frontend Web development and building projects.
 - 👯 I’m looking to collaborate on Projects related to frontend, preferably Web3 and blockchains.
 - 📫 How to reach me: You can write to me at writer[dot]vignesh[dot]ck[at]gmail[dot]com.
+
+### Love to work with:
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
+</p>
 
 ***
 
 | <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh's github stats" /></a> | <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckvignesh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<br>
+<p align='center'>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ckvignesh&theme=tokyonight" />
+</p>
 ***
 
 ***
@@ -38,5 +56,9 @@
 <!--END_SECTION:waka-->
 
 ***
-
+<p align='center'>
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" height="25">
+</p>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ckvignesh'></p>
