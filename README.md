@@ -21,13 +21,13 @@
 
 ***
 
-| <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vignesh's github stats" /></a> | <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckvignesh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vignesh's github stats" /></a> | <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckvignesh&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 <br>
 <p align='center'>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ckvignesh&theme=tokyonight" />
 </p>
-***
+
 
 ***
 ### :zap: Updates:
