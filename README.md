@@ -49,7 +49,7 @@
 10. 🗣 Commented on [#2588](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2588) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 <!--END_SECTION:activity-->
 
-***
+<!-- *** -->
 
 <!-- ### :zap: Weekly Report: -->
 
@@ -62,7 +62,6 @@
 ***
 <p align='center'>
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="25">
-  <br>
   <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" height="25">
 </p>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ckvignesh'></p>
