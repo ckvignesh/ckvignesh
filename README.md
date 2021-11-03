@@ -21,8 +21,10 @@
 
 ***
 <p align='center'>
-| <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vignesh's github stats" /></a> | <a href="https://github.com/ckvignesh/github-readme-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ckvignesh&theme=tokyonight" /></a> |
-| ------------- | ------------- |
+  <a href="https://github.com/ckvignesh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vignesh's github stats" />
+  </a>
+  <a href="https://github.com/ckvignesh/github-readme-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ckvignesh&theme=tokyonight" />
+  </a>
 </p>
 <br>
 <p align='center'>
