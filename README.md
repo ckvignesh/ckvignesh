@@ -37,16 +37,16 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#1](https://github.com/ckvignesh/awesome-github-profiles/pull/1) in [ckvignesh/awesome-github-profiles](https://github.com/ckvignesh/awesome-github-profiles)
-3. ❗️ Closed issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#1](https://github.com/ckvignesh/awesome-github-profiles/pull/1) in [ckvignesh/awesome-github-profiles](https://github.com/ckvignesh/awesome-github-profiles)
-5. 💪 Opened PR [#827](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/827) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-6. 💪 Opened PR [#826](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/826) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-7. ❗️ Opened issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-8. 🗣 Commented on [#2588](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2588) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-9. 🗣 Commented on [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
-10. ❗️ Opened issue [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
+1. 🗣 Commented on [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 💪 Opened PR [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#1](https://github.com/ckvignesh/awesome-github-profiles/pull/1) in [ckvignesh/awesome-github-profiles](https://github.com/ckvignesh/awesome-github-profiles)
+4. ❗️ Closed issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#1](https://github.com/ckvignesh/awesome-github-profiles/pull/1) in [ckvignesh/awesome-github-profiles](https://github.com/ckvignesh/awesome-github-profiles)
+6. 💪 Opened PR [#827](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/827) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+7. 💪 Opened PR [#826](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/826) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+8. ❗️ Opened issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+9. 🗣 Commented on [#2588](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2588) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+10. 🗣 Commented on [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
 <!--END_SECTION:activity-->
 
 <!-- *** -->
