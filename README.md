@@ -23,6 +23,7 @@
 <p align='center'>
   <a href="https://github.com/ckvignesh/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vignesh's github stats" />
   </a>
+  <br>
   <a href="https://github.com/ckvignesh/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ckvignesh&theme=tokyonight" />
   </a>
 </p>
