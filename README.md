@@ -30,7 +30,7 @@
 
 ***
 
-### :zap: Weekly Report:
+<!-- ### :zap: Weekly Report: -->
 
 <!--START_SECTION:waka-->
 
