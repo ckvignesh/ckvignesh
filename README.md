@@ -62,6 +62,6 @@
 ***
 <p align='center'>
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="25">
-  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" height="25">
+  <img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg" height="25">
 </p>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ckvignesh'></p>
