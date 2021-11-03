@@ -37,16 +37,16 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2588](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2588) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-2. 🗣 Commented on [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
-3. ❗️ Opened issue [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
-4. 🗣 Commented on [#1](https://github.com/ckvignesh/flexBoxDefense/issues/1) in [ckvignesh/flexBoxDefense](https://github.com/ckvignesh/flexBoxDefense)
-5. 🗣 Commented on [#2591](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2591) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-6. ❗️ Opened issue [#2894](https://github.com/EddieHubCommunity/support/issues/2894) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-7. 🗣 Commented on [#2589](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2589) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-8. 💪 Opened PR [#2589](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2589) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-9. 💪 Opened PR [#1](https://github.com/ckvignesh/linkedin-skill-assessments-quizzes/pull/1) in [ckvignesh/linkedin-skill-assessments-quizzes](https://github.com/ckvignesh/linkedin-skill-assessments-quizzes)
-10. 🗣 Commented on [#2588](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2588) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+1. 💪 Opened PR [#826](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/826) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#2588](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2588) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+4. 🗣 Commented on [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
+5. ❗️ Opened issue [#41](https://github.com/nhcommunity/community/issues/41) in [nhcommunity/community](https://github.com/nhcommunity/community)
+6. 🗣 Commented on [#1](https://github.com/ckvignesh/flexBoxDefense/issues/1) in [ckvignesh/flexBoxDefense](https://github.com/ckvignesh/flexBoxDefense)
+7. 🗣 Commented on [#2591](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2591) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+8. ❗️ Opened issue [#2894](https://github.com/EddieHubCommunity/support/issues/2894) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+9. 🗣 Commented on [#2589](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/2589) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+10. 💪 Opened PR [#2589](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2589) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 <!--END_SECTION:activity-->
 
 <!-- *** -->
