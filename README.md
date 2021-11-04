@@ -64,16 +64,16 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#828](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#1](https://github.com/ckvignesh/awesome-github-profiles/pull/1) in [ckvignesh/awesome-github-profiles](https://github.com/ckvignesh/awesome-github-profiles)
-6. ❗️ Closed issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-7. 💪 Opened PR [#1](https://github.com/ckvignesh/awesome-github-profiles/pull/1) in [ckvignesh/awesome-github-profiles](https://github.com/ckvignesh/awesome-github-profiles)
-8. 💪 Opened PR [#827](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/827) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-9. 💪 Opened PR [#826](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/826) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-10. ❗️ Opened issue [#825](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/825) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#10](https://github.com/ckvignesh/ckvignesh/issues/10) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+2. ❗️ Opened issue [#9](https://github.com/ckvignesh/ckvignesh/issues/9) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+3. ❗️ Opened issue [#8](https://github.com/ckvignesh/ckvignesh/issues/8) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+4. ❗️ Opened issue [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+5. ❗️ Opened issue [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+6. ❗️ Opened issue [#5](https://github.com/ckvignesh/ckvignesh/issues/5) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+7. ❗️ Opened issue [#4](https://github.com/ckvignesh/ckvignesh/issues/4) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+8. ❗️ Opened issue [#3](https://github.com/ckvignesh/ckvignesh/issues/3) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+9. ❗️ Opened issue [#2](https://github.com/ckvignesh/ckvignesh/issues/2) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+10. ❗️ Opened issue [#1](https://github.com/ckvignesh/ckvignesh/issues/1) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 <!--END_SECTION:activity-->
 
 <!-- *** -->
