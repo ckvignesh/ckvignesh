@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Frontend Web development and building projects.
 - 👯 I’m looking to collaborate on Projects related to frontend, preferably Web3 and blockchains.
-- 📫 How to reach me: You can write to me at writer[dot]vignesh[dot]ck[at]gmail[dot]com.
+<!-- - 📫 How to reach me: You can write to me at writer[dot]vignesh[dot]ck[at]gmail[dot]com. -->
 
 
 ### Connect with me here:
@@ -17,6 +17,9 @@
 <!-- 	<a href="https://www.instagram.com/userName/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a> -->
+	<a href="https://ckvignesh.hashnode.dev/">
+		<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+	</a>
 	<a href="https://dev.to/ckvignesh">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
@@ -86,6 +89,6 @@
 ***
 <p align='center'>
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="25">
-  <img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg" height="25">
+  <img src="https://img.shields.io/badge/Built%20with-VSCode-1f425f.svg" height="25">
 </p>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ckvignesh'></p>
