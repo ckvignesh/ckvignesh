@@ -64,11 +64,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ckvignesh/resume/issues/2) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-2. ❗️ Closed issue [#1](https://github.com/ckvignesh/ckvignesh.github.io/issues/1) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
-3. ❗️ Opened issue [#1](https://github.com/ckvignesh/resume/issues/1) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-4. ❗️ Opened issue [#2](https://github.com/ckvignesh/ckvignesh.github.io/issues/2) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
-5. ❗️ Opened issue [#1](https://github.com/ckvignesh/ckvignesh.github.io/issues/1) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+1. 🗣 Commented on [#4](https://github.com/ckvignesh/ckvignesh.github.io/issues/4) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+2. ❗️ Closed issue [#3](https://github.com/ckvignesh/ckvignesh.github.io/issues/3) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+3. 🗣 Commented on [#3](https://github.com/ckvignesh/ckvignesh.github.io/issues/3) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+4. ❗️ Closed issue [#2](https://github.com/ckvignesh/ckvignesh.github.io/issues/2) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+5. 🗣 Commented on [#2](https://github.com/ckvignesh/ckvignesh.github.io/issues/2) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
 6. ❗️ Opened issue [#10](https://github.com/ckvignesh/ckvignesh/issues/10) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 7. ❗️ Opened issue [#9](https://github.com/ckvignesh/ckvignesh/issues/9) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 8. ❗️ Opened issue [#8](https://github.com/ckvignesh/ckvignesh/issues/8) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
