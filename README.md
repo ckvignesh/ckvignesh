@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Vignesh.
 
 - 🌱 I’m currently learning Frontend Web development and building projects.
-- 👯 I’m looking to collaborate on Projects related to frontend, preferably Web3 and blockchains.
-<!-- - 📫 How to reach me: You can write to me at writer[dot]vignesh[dot]ck[at]gmail[dot]com. -->
+- 👯 Looking to collaborate on Projects related to frontend, preferably Web3 and blockchains.
+- 📫 You can have a look at my ongoing projects, here: https://github.com/ckvignesh?tab=repositories
 
 
 ### Connect with me here:
