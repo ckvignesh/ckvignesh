@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Frontend Web development and building projects.
 - 👯 Looking to collaborate on Projects related to frontend, preferably Web3 and blockchains.
-- 📫 You can have a look at my ongoing projects, here: https://github.com/ckvignesh?tab=repositories
+- 📫 You can have a look at my ongoing projects, [here](https://github.com/ckvignesh?tab=repositories).
 
 
 ### Connect with me here:
