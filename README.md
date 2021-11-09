@@ -64,11 +64,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ckvignesh/resume/pull/3) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-2. ❗️ Closed issue [#1](https://github.com/ckvignesh/resume/issues/1) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-3. 💪 Opened PR [#3](https://github.com/ckvignesh/resume/pull/3) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-4. 🗣 Commented on [#4](https://github.com/ckvignesh/ckvignesh.github.io/issues/4) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
-5. ❗️ Closed issue [#3](https://github.com/ckvignesh/ckvignesh.github.io/issues/3) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+1. 💪 Opened PR [#652](https://github.com/EddieHubCommunity/LinkFree/pull/652) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#3](https://github.com/ckvignesh/resume/pull/3) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+3. ❗️ Closed issue [#1](https://github.com/ckvignesh/resume/issues/1) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+4. 💪 Opened PR [#3](https://github.com/ckvignesh/resume/pull/3) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+5. 🗣 Commented on [#4](https://github.com/ckvignesh/ckvignesh.github.io/issues/4) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
 6. ❗️ Opened issue [#10](https://github.com/ckvignesh/ckvignesh/issues/10) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 7. ❗️ Opened issue [#9](https://github.com/ckvignesh/ckvignesh/issues/9) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 8. ❗️ Opened issue [#8](https://github.com/ckvignesh/ckvignesh/issues/8) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
