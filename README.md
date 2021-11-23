@@ -65,11 +65,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-2. 🗣 Commented on [#26](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/26) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-3. 🎉 Merged PR [#1](https://github.com/ckvignesh/linkedin-skill-assessments-quizzes/pull/1) in [ckvignesh/linkedin-skill-assessments-quizzes](https://github.com/ckvignesh/linkedin-skill-assessments-quizzes)
-4. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-5. 🗣 Commented on [#26](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/26) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+1. ❗️ Closed issue [#25](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/25) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+2. 🗣 Commented on [#25](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/25) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+3. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+4. 🗣 Commented on [#26](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/26) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+5. 🎉 Merged PR [#1](https://github.com/ckvignesh/linkedin-skill-assessments-quizzes/pull/1) in [ckvignesh/linkedin-skill-assessments-quizzes](https://github.com/ckvignesh/linkedin-skill-assessments-quizzes)
 6. ❗️ Opened issue [#10](https://github.com/ckvignesh/ckvignesh/issues/10) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 7. ❗️ Opened issue [#9](https://github.com/ckvignesh/ckvignesh/issues/9) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 8. ❗️ Opened issue [#8](https://github.com/ckvignesh/ckvignesh/issues/8) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
