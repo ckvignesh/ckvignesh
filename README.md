@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Vignesh.
+![](Cover%20Pic.png)
+## Hi there 👋 I'm Vignesh.
 
 - 🌱 I’m currently doing Frontend Web development and learning how to do Fullstack Projects.
 - 👯 Looking to collaborate on Projects related to frontend in Web3.
