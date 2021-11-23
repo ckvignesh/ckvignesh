@@ -64,7 +64,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckvignesh&layout=compact&theme=tokyonight" />
 </p>
 
-
 ***
 
 ### :zap: Updates:
@@ -88,9 +87,15 @@
 
 <!--START_SECTION:waka-->
 
-
-
 <!--END_SECTION:waka-->
+
+***
+
+### 🖋️ Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ***
 
