@@ -74,11 +74,6 @@
 3. ❗️ Closed issue [#2](https://github.com/ckvignesh/resume/issues/2) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
 4. ❗️ Closed issue [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 5. 🗣 Commented on [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-6. ❗️ Opened issue [#10](https://github.com/ckvignesh/ckvignesh/issues/10) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-7. ❗️ Opened issue [#9](https://github.com/ckvignesh/ckvignesh/issues/9) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-8. ❗️ Opened issue [#8](https://github.com/ckvignesh/ckvignesh/issues/8) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-9. ❗️ Opened issue [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-10. ❗️ Opened issue [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 <!--END_SECTION:activity-->
 
 ***
