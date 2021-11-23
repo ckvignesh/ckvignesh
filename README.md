@@ -7,7 +7,7 @@
 - 📫 You can have a look at my ongoing projects, [here](https://github.com/ckvignesh?tab=repositories).
 
 
-### Connect with me here:
+### ☎️ Connect with me here:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ck-vignesh-/">
@@ -49,6 +49,9 @@
 </p>
 
 ***
+
+### 📈 Github Activity:
+
 <p align='center'>
   <a href="https://github.com/ckvignesh/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ckvignesh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vignesh's github stats" />
   </a>
@@ -63,6 +66,7 @@
 
 
 ***
+
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
