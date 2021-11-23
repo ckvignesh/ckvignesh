@@ -103,8 +103,8 @@ No Activity tracked this Week
 ### 📚 Online Reading Stats:
 
 <p align='center'>
-	<a href="https://app.daily.dev/ckvignesh"><img src="https://api.daily.dev/devcards/dede6ee2a4924dea9a387551edfdcf42.png?r=9bt" width="400" alt="Vignesh's Dev Card"/>
-	</a>
+<!-- 	<a href="https://app.daily.dev/ckvignesh"><img src="https://api.daily.dev/devcards/dede6ee2a4924dea9a387551edfdcf42.png?r=9bt" width="400" alt="Vignesh's Dev Card"/>
+	</a> -->
 </p>
 
 ***
