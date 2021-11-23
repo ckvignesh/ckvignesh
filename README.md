@@ -89,6 +89,9 @@
 <!--END_SECTION:waka-->
 
 ***
+<a href="https://app.daily.dev/ckvignesh"><img src="https://api.daily.dev/devcards/dede6ee2a4924dea9a387551edfdcf42.png?r=klh" width="400" alt="Vignesh's Dev Card"/></a>
+
+***
 <p align='center'>
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="25">
   <img src="https://img.shields.io/badge/Built%20with-VSCode-1f425f.svg" height="25">
