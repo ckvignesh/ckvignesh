@@ -60,9 +60,9 @@
   </a>
 </p>
 <br>
-<p align='center'>
+<!-- <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckvignesh&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ***
 
