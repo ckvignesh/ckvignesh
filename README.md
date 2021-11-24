@@ -6,7 +6,7 @@
 - 📝 If you need help with Open Source Documentation, we must chat.
 - 📫 You can have a look at my ongoing projects, [here](https://github.com/ckvignesh?tab=repositories).
 
-<p style="float:right"; align='center'>
+<p style="float:right">
 	<a href="https://app.daily.dev/ckvignesh">
 		<img src="https://github.com/ckvignesh/ckvignesh/blob/main/devcard.svg" width="400" alt="Vignesh's Dev Card"/>
 	</a>
