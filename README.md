@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/ckvignesh/resume/issues/5) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-2. ❗️ Opened issue [#5](https://github.com/ckvignesh/resume/issues/5) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-3. ❗️ Closed issue [#2](https://github.com/ckvignesh/resume/issues/2) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
-4. ❗️ Closed issue [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-5. 🗣 Commented on [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+1. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+2. ❗️ Closed issue [#5](https://github.com/ckvignesh/resume/issues/5) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+3. ❗️ Opened issue [#5](https://github.com/ckvignesh/resume/issues/5) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+4. ❗️ Closed issue [#2](https://github.com/ckvignesh/resume/issues/2) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+5. ❗️ Closed issue [#6](https://github.com/ckvignesh/ckvignesh/issues/6) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 <!--END_SECTION:activity-->
 
 ***
