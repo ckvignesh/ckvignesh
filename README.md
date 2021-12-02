@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-2. 💪 Opened PR [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/pull/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-3. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+1. 🗣 Commented on [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+2. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+3. 💪 Opened PR [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/pull/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
 4. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-5. ❗️ Closed issue [#5](https://github.com/ckvignesh/resume/issues/5) in [ckvignesh/resume](https://github.com/ckvignesh/resume)
+5. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
 <!--END_SECTION:activity-->
 
 ***
