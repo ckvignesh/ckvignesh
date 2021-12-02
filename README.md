@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-2. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-3. 💪 Opened PR [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/pull/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-4. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-5. 🗣 Commented on [#23](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/23) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+1. 🗣 Commented on [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+2. ❗️ Closed issue [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+3. ❗️ Closed issue [#3](https://github.com/ckvignesh/ckvignesh/issues/3) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+4. 🗣 Commented on [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+5. 🗣 Commented on [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
 <!--END_SECTION:activity-->
 
 ***
