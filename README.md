@@ -92,9 +92,9 @@ Markdown     3 mins          █░░░░░░░░░░░░░░░░
 ### 🖋️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons For Newbie Developers from The War of Art](https://ckvignesh.hashnode.dev/lessons-for-newbie-developers-from-the-war-of-art)
-- [Stage, Commit and Push Changes to Github Repositories in Atom without commands](https://ckvignesh.hashnode.dev/stage-commit-and-push-changes-to-github-repositories-in-atom-without-commands)
 - [Configuring Github&#39;s Personal Access Token to Make Code Pushes Easier](https://ckvignesh.hashnode.dev/configuring-githubs-personal-access-token-to-make-code-pushes-easier)
+- [Stage, Commit and Push Changes to Github Repositories in Atom without commands](https://ckvignesh.hashnode.dev/stage-commit-and-push-changes-to-github-repositories-in-atom-without-commands)
+- [Lessons For Newbie Developers from The War of Art](https://ckvignesh.hashnode.dev/lessons-for-newbie-developers-from-the-war-of-art)
 - [Host a simple snake game on your website](https://ckvignesh.hashnode.dev/host-a-simple-snake-game-on-your-website-5bde4ed13361)
 - [How to send an Email using Powershell ISE](https://ckvignesh.hashnode.dev/how-to-send-an-email-using-powershell-ise-6f433ce6afce)
 <!-- BLOG-POST-LIST:END -->
