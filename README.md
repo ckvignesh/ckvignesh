@@ -1,8 +1,8 @@
 ![](Cover%20Pic.png)
 ## Hi there 👋 I'm Vignesh.
 
-- 🌱 I’m currently doing Frontend Web development and learning how to do Fullstack Projects.
-- 👯 Looking to collaborate on Projects related to frontend in Web3.
+- 🌱 I’m a Frontend Web developer currently learning how to do Fullstack Projects.
+- 👯 Looking to collaborate on Fullstack Projects.
 - 📝 If you need help with Open Source Documentation, we must chat.
 - 📫 You can have a look at my ongoing projects, [here](https://github.com/ckvignesh?tab=repositories).
 
