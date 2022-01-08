@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-2. ❗️ Closed issue [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-3. ❗️ Closed issue [#3](https://github.com/ckvignesh/ckvignesh/issues/3) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
-4. 🗣 Commented on [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
-5. 🗣 Commented on [#31](https://github.com/iamfreeCodeCamp/iamfreecodecamp/issues/31) in [iamfreeCodeCamp/iamfreecodecamp](https://github.com/iamfreeCodeCamp/iamfreecodecamp)
+1. 💪 Opened PR [#47](https://github.com/freeCodeCamp/LearnToCodeRPG/pull/47) in [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG)
+2. ❗️ Opened issue [#46](https://github.com/freeCodeCamp/LearnToCodeRPG/issues/46) in [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG)
+3. 🗣 Commented on [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+4. ❗️ Closed issue [#7](https://github.com/ckvignesh/ckvignesh/issues/7) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
+5. ❗️ Closed issue [#3](https://github.com/ckvignesh/ckvignesh/issues/3) in [ckvignesh/ckvignesh](https://github.com/ckvignesh/ckvignesh)
 <!--END_SECTION:activity-->
 
 ***
