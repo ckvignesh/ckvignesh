@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ckvignesh/productivity-app/pull/1) in [ckvignesh/productivity-app](https://github.com/ckvignesh/productivity-app)
-2. 💪 Opened PR [#1](https://github.com/ckvignesh/productivity-app/pull/1) in [ckvignesh/productivity-app](https://github.com/ckvignesh/productivity-app)
-3. ❗️ Opened issue [#2](https://github.com/iamfreeCodeCamp/ourowncamp/issues/2) in [iamfreeCodeCamp/ourowncamp](https://github.com/iamfreeCodeCamp/ourowncamp)
-4. ❗️ Opened issue [#1](https://github.com/iamfreeCodeCamp/ourowncamp/issues/1) in [iamfreeCodeCamp/ourowncamp](https://github.com/iamfreeCodeCamp/ourowncamp)
-5. ❗️ Opened issue [#59](https://github.com/freeCodeCamp/LearnToCodeRPG/issues/59) in [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG)
+1. ❗️ Opened issue [#2](https://github.com/iamfreeCodeCamp/ourowncamp/issues/2) in [iamfreeCodeCamp/ourowncamp](https://github.com/iamfreeCodeCamp/ourowncamp)
+2. ❗️ Opened issue [#1](https://github.com/iamfreeCodeCamp/ourowncamp/issues/1) in [iamfreeCodeCamp/ourowncamp](https://github.com/iamfreeCodeCamp/ourowncamp)
+3. 🗣 Commented on [#1](https://github.com/iamfreeCodeCamp/ourowncamp/issues/1) in [iamfreeCodeCamp/ourowncamp](https://github.com/iamfreeCodeCamp/ourowncamp)
+4. 🎉 Merged PR [#1](https://github.com/ckvignesh/productivity-app/pull/1) in [ckvignesh/productivity-app](https://github.com/ckvignesh/productivity-app)
+5. 💪 Opened PR [#1](https://github.com/ckvignesh/productivity-app/pull/1) in [ckvignesh/productivity-app](https://github.com/ckvignesh/productivity-app)
 <!--END_SECTION:activity-->
 
 ***
