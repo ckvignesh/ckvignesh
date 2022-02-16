@@ -81,6 +81,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 15 hrs 34 mins
+
 JavaScript   15 hrs 27 mins  ████████████████████████▓   99.04 % 
 Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
