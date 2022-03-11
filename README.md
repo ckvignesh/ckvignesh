@@ -68,9 +68,9 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/we-craft-code/we-craft-code/issues/1) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
-2. 💪 Opened PR [#6](https://github.com/we-craft-code/we-craft-code/pull/6) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
-3. 🎉 Merged PR [#5](https://github.com/ckvignesh/ckvignesh.github.io/pull/5) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
+1. 🗣 Commented on [#6](https://github.com/we-craft-code/we-craft-code/issues/6) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+2. 🗣 Commented on [#1](https://github.com/we-craft-code/we-craft-code/issues/1) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+3. 💪 Opened PR [#6](https://github.com/we-craft-code/we-craft-code/pull/6) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
 4. 💪 Opened PR [#5](https://github.com/ckvignesh/ckvignesh.github.io/pull/5) in [ckvignesh/ckvignesh.github.io](https://github.com/ckvignesh/ckvignesh.github.io)
 5. 🗣 Commented on [#1](https://github.com/iamfreeCodeCamp/ourowncamp/issues/1) in [iamfreeCodeCamp/ourowncamp](https://github.com/iamfreeCodeCamp/ourowncamp)
 <!--END_SECTION:activity-->
