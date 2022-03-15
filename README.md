@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/we-craft-code/we-craft-code/issues/7) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
-2. ❗️ Closed issue [#8](https://github.com/we-craft-code/we-craft-code/issues/8) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
-3. 🎉 Merged PR [#20](https://github.com/we-craft-code/we-craft-code/pull/20) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
-4. 💪 Opened PR [#20](https://github.com/we-craft-code/we-craft-code/pull/20) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
-5. 🎉 Merged PR [#17](https://github.com/we-craft-code/we-craft-code/pull/17) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+1. 🗣 Commented on [#20](https://github.com/we-craft-code/we-craft-code/issues/20) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+2. ❗️ Closed issue [#7](https://github.com/we-craft-code/we-craft-code/issues/7) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+3. ❗️ Closed issue [#8](https://github.com/we-craft-code/we-craft-code/issues/8) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+4. 🎉 Merged PR [#20](https://github.com/we-craft-code/we-craft-code/pull/20) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+5. 💪 Opened PR [#20](https://github.com/we-craft-code/we-craft-code/pull/20) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
 <!--END_SECTION:activity-->
 
 ***
