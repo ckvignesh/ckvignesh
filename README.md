@@ -68,11 +68,11 @@
 ### :zap: Updates:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/we-craft-code/bookmark-manager-app/pull/3) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
-2. 💪 Opened PR [#3](https://github.com/we-craft-code/bookmark-manager-app/pull/3) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
-3. ❗️ Opened issue [#2](https://github.com/we-craft-code/bookmark-manager-app/issues/2) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
-4. ❗️ Opened issue [#1](https://github.com/we-craft-code/bookmark-manager-app/issues/1) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
-5. ❗️ Opened issue [#22](https://github.com/we-craft-code/we-craft-code/issues/22) in [we-craft-code/we-craft-code](https://github.com/we-craft-code/we-craft-code)
+1. 💪 Opened PR [#5](https://github.com/we-craft-code/bookmark-manager-app/pull/5) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
+2. 💪 Opened PR [#4](https://github.com/we-craft-code/bookmark-manager-app/pull/4) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
+3. ❌ Closed PR [#3](https://github.com/we-craft-code/bookmark-manager-app/pull/3) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
+4. 💪 Opened PR [#3](https://github.com/we-craft-code/bookmark-manager-app/pull/3) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
+5. ❗️ Opened issue [#2](https://github.com/we-craft-code/bookmark-manager-app/issues/2) in [we-craft-code/bookmark-manager-app](https://github.com/we-craft-code/bookmark-manager-app)
 <!--END_SECTION:activity-->
 
 ***
