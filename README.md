@@ -96,7 +96,7 @@ Other        16 mins         ▓░░░░░░░░░░░░░░░░
 ### 🖋️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source and 100 Days of Code: Week 2 to 6 Update](https://ckvignesh.hashnode.dev/open-source-and-100-days-of-code-week-2-to-6-update)
+- [Open Source and 100 Days of Code: Week 2 Update](https://ckvignesh.hashnode.dev/open-source-and-100-days-of-code-week-2-update)
 - [Open Source and 100 Days of Code: Week 1 Update](https://ckvignesh.hashnode.dev/open-source-and-100-days-of-code-week-1-update)
 - [Writing Tools For Your Next Book](https://ckvignesh.hashnode.dev/writing-tools-for-your-next-book)
 - [Configuring Github&#39;s Personal Access Token to Make Code Pushes Easier](https://ckvignesh.hashnode.dev/configuring-githubs-personal-access-token-to-make-code-pushes-easier)
