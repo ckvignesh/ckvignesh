@@ -82,9 +82,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     33 mins         ██████████████████▓░░░░░░   74.42 %
-JavaScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown     33 mins         ███████████████████████▒░   93.08 %
+JavaScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
