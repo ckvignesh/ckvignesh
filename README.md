@@ -77,18 +77,6 @@
 
 ***
 
-### 📝 Weekly Report:
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-***
-
 ### 🖋️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
